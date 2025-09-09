@@ -1,0 +1,1 @@
+{"filial":["100"],"movt_de":"","movt_ate":"","tmv_cod_tipo_mv":["A122"]}
