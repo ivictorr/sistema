@@ -1,1 +1,0 @@
-{"filial":[],"banco":[],"tipoDocto":[],"formaCob":[],"emissao_de":"","emissao_ate":"","vencimento_de":"","vencimento_ate":"","situacao":"A","tipo_relatorio":"analitico"}

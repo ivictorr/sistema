@@ -1,1 +1,0 @@
-{"filial":["100"],"banco":["120"],"tipoDocto":[],"formaCob":["4"],"emissao_de":"","emissao_ate":"","vencimento_de":"2025-01-16","vencimento_ate":"2025-01-16","situacao":"A","tipo_relatorio":"sintetico"}
